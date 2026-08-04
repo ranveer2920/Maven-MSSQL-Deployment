@@ -105,5 +105,5 @@ Automated via Jenkins and GitLab CI/CD pipelines
 Output verified through web UI
 
 ## 👨‍💻 Author
-Akash Gadekar
-📧 gadekarakash21@gmail.com
+Ranveer Patil
+📧 patilranveer0320@gmail.com
