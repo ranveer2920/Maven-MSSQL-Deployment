@@ -46,7 +46,7 @@ The application logic resides in HelloServlet.java, which connects to MSSQL Data
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/AkashGadekar0/MavenMSSQLDeploy.git
+git clone https://github.com/ranveer2920/Maven-MSSQL-Deployment.git
 cd HelloWorldProject
 ```
 2️⃣ Build Maven Artifact
