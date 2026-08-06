@@ -28,7 +28,7 @@ pipeline {
                 sh '''
                 docker rm -f maven-app || true
                 docker run -d \
-                    -p 8080:8080 \
+                    -p 8081:8080 \
                     --name maven-app \
                     ranveer0318/maven-mssql-app:1.0
                 '''
